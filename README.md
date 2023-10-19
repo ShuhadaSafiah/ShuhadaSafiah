@@ -1,21 +1,35 @@
-<h1 align="center">Hi 👋, I'm Shuhada</h1>
-<h3 align="center">A student of Bachelor of Computer Science(Data Engineering)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuhadasafiah&label=Profile%20views&color=0e75b6&style=flat" alt="shuhadasafiah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuhadasafiah" alt="shuhadasafiah" /></a> </p>
-
-- 🌱 I’m currently learning **Python, Oracle and more.**
-
-- 📫 How to reach me **shuhadasafiah07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## <p align="center">Hey there, I'm Shuhada!</p>
+<p align="center">  
+I'm a passionate and driven third-year student pursuing a Bachelor's degree in Computer Science with a focus on Data Engineering. As a tech enthusiast, I'm constantly exploring and learning about the latest trends in the world of data and technology.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+### 💼 Current Role
+- 🌐 Vice Secretary at Google Developer Student Clubs UTM (GDSC UTM): As GDSC UTM member, I'm dedicated to fostering a vibrant tech community by organizing workshops, hackathons, and events to inspire fellow students and enthusiasts in the field of technology.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuhadasafiah&show_icons=true&locale=en" alt="shuhadasafiah" /></p>
+### 🚀 What Drives Me
+I'm enthusiastic about harnessing the power of data and technology to solve real-world problems. My journey in computer science is driven by the thrill of unlocking insights from data and creating innovative solutions that make a positive impact on our society.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuhadasafiah&" alt="shuhadasafiah" /></p>
+### 💡 Interests
+- Data Engineering
+- Machine Learning
+- Web Development
+- Open Source Projects
+- Community Building
+
+### 🌟 Get to Know Me
+- 📷 [Instagram](https://www.instagram.com/invites/contact/?i=19x59w0l2qil5&utm_content=1l2wh10)
+- 📧 [Email](mailto:shuhadasafiah07@gmail.com)
+
+### 🌟 Let's Connect
+I'm always open to collaboration, learning from others, and contributing to exciting projects. Feel free to connect with me and explore the wonderful world of technology together!
+
+<p align="center">
+  <a href="https://my.linkedin.com/in/nur-shuhada-safiah-ayob-932105242">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ShuhadaSafiah">
+    <img src="https://img.shields.io/badge/GitHub-Follow-9cf" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">Looking forward to sharing knowledge and experiences with the tech community! ✨</p>
